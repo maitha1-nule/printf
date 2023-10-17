@@ -2,6 +2,8 @@
 
 /**
  * put - prints a string
+ * @c: this is the character to help in the printing
+ *
  * Return: numberof opf bytes
  */
 int put(char *c)
